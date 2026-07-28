@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T14:33:37",
+  "last_updated": "2026-07-28T14:33:56",
   "html": {
     "https://web.archive.org/web/20260428050234if_/https://twitter.com/yun_y1ho86/status/2048991237827686690": {
       "status": "done",
@@ -2165,9 +2165,9 @@
       "referenced_by": [
         "20260517143756_twitter_com_yun_y1ho86_status_2056021403015798919.json"
       ],
-      "last_updated": "2026-07-28T14:28:58",
+      "last_updated": "2026-07-28T14:33:56",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260517143756/https://video.twimg.com/ext_tw_video/2055975315818897408/pu/vid/avc1/1080x1920/SlTvI6M971a7IwHv.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2056389122961592320/vid/avc1/1280x720/Kp8fqk9IsRhtIenl.mp4?tag=14": {
       "status": "done",
