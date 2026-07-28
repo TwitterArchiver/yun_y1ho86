@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2049427750545510893",
+    "created_at": "2026-04-30T02:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T03:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049678262679556203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1143890062695792641",
+          "start": 0,
+          "username": "uranyl_acetate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049678262679556203",
+    "in_reply_to_user_id": "1143890062695792641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049427750545510893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uranyl_acetate 好厉害！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_2049427190929084416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEHK_xa0AAf2jT.png",
+        "width": 1353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2049427750545510893",
+        "created_at": "2026-04-30T02:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049678262679556203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1143890062695792641",
+              "start": 0,
+              "username": "uranyl_acetate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049678262679556203",
+        "in_reply_to_user_id": "1143890062695792641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049427750545510893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranyl_acetate 好厉害！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049427190929084416"
+          ]
+        },
+        "author_id": "1143890062695792641",
+        "conversation_id": "2049427750545510893",
+        "created_at": "2026-04-29T09:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049427750545510893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1LgSngecX",
+              "end": 65,
+              "expanded_url": "https://x.com/uranyl_acetate/status/2049427750545510893/photo/1",
+              "media_key": "3_2049427190929084416",
+              "start": 42,
+              "url": "https://t.co/Y1LgSngecX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049427750545510893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7724,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜我的第二篇paper(第一篇一作/顶刊)顺利接收嘿嘿!!发一篇帖子纪念一下^^ https://t.co/Y1LgSngecX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读｜心理学｜哲学｜友跨｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 30,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-26T14:33:38.000Z",
+        "description": "笨笨蛋蛋的日记本📬 | 生きれて、すみません",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "erllane.kesug.com",
+                "end": 23,
+                "expanded_url": "http://erllane.kesug.com",
+                "start": 0,
+                "url": "https://t.co/mhsQ2k2RUo"
+              }
+            ]
+          }
+        },
+        "id": "1143890062695792641",
+        "location": "Thule",
+        "name": "𝓔𝓻𝓵𝓵𝓪𝓷𝓮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981388625364348928/tFdgZx_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 200,
+          "like_count": 7185,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/mhsQ2k2RUo",
+        "username": "uranyl_acetate",
+        "verified": false
+      }
+    ]
+  }
+}

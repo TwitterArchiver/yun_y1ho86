@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2049675939588772344",
+    "created_at": "2026-04-30T05:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T06:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049727802333917314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044896801497509888",
+          "start": 0,
+          "username": "hasmiku520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049727802333917314",
+    "in_reply_to_user_id": "2044896801497509888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049675939588772344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hasmiku520 抱抱-"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2049675939588772344",
+        "created_at": "2026-04-30T05:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049727802333917314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044896801497509888",
+              "start": 0,
+              "username": "hasmiku520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049727802333917314",
+        "in_reply_to_user_id": "2044896801497509888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049675939588772344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasmiku520 抱抱-"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044896801497509888",
+        "conversation_id": "2049675939588772344",
+        "created_at": "2026-04-30T02:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049675939588772344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049675939588772344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要抱抱～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读｜心理学｜哲学｜友跨｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 30,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T21:53:12.000Z",
+        "description": "感谢关注喵！|2009.12.22|浙江 温州|信竞小菜喵\n高一物化技desu|关注滴咱都会回关desuwa！|家长反对党\n探索X中喵w|《云律茶馆》游戏制作喵|割手手喵w\n菜菜音游入｜ＰＪＳＫ｜hrt 4.21|无证含糖\n不讨论政治喵~🇨🇳🇹🇼一家亲啦～各具优势，和平相处！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hiroawa.top",
+                "end": 23,
+                "expanded_url": "https://hiroawa.top/",
+                "start": 0,
+                "url": "https://t.co/ZnEypkfQdT"
+              }
+            ]
+          }
+        },
+        "id": "2044896801497509888",
+        "location": "浙江省",
+        "name": "Puuk🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047922665277862361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044897193967190016/SOBDwJyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 249,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/ZnEypkfQdT",
+        "username": "hasmiku520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2052906100232687754",
+    "created_at": "2026-05-09T01:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052931055892713617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052931055892713617",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052906100232687754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo 早哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2052906100232687754",
+        "created_at": "2026-05-09T01:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052931055892713617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052931055892713617",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052906100232687754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo 早哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755765450707709952",
+        "conversation_id": "2052906100232687754",
+        "created_at": "2026-05-09T00:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052906100232687754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052906100232687754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 92,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 74
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "じゅかい｜厉害的生命也会露出茫然的神色吗?｜雄性｜16岁｜文具控 术力口 科技食品爱好者｜里推@shuhaishiwo｜老公@sharksovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "shuhaishiwo"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "sharksovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/vUdsXWw2h5",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/vUdsXWw2h5",
+                "start": 0,
+                "url": "https://t.co/DeDtrCIx26"
+              }
+            ]
+          }
+        },
+        "id": "1755765450707709952",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "2051657958724075974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050780675603853312/8O0XU3en_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 2293,
+          "like_count": 53207,
+          "listed_count": 6,
+          "media_count": 1967,
+          "tweet_count": 12043
+        },
+        "url": "https://t.co/DeDtrCIx26",
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

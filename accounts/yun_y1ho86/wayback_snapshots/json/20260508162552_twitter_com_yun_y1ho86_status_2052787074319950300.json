@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2052738990177124658",
+    "created_at": "2026-05-08T16:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052787074319950300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029106942657085446",
+          "start": 0,
+          "username": "ineedloveqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052787074319950300",
+    "in_reply_to_user_id": "2029106942657085446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052738990177124658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ineedloveqwq 恭喜恭喜，祝99！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2052738990177124658",
+        "created_at": "2026-05-08T16:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052787074319950300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029106942657085446",
+              "start": 0,
+              "username": "ineedloveqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052787074319950300",
+        "in_reply_to_user_id": "2029106942657085446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052738990177124658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ineedloveqwq 恭喜恭喜，祝99！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029106942657085446",
+        "conversation_id": "2052738990177124658",
+        "created_at": "2026-05-08T13:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052738990177124658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052738990177124658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1756,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在此發文告知各位我已經脫單了🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 66,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 68
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T08:10:01.000Z",
+        "description": "（有對象了）",
+        "id": "2029106942657085446",
+        "location": "你的心裡",
+        "name": "渴望愛情的小男孩",
+        "pinned_tweet_id": "2052738990177124658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029111670791127043/zZOSBORq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 126,
+          "like_count": 26072,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1354
+        },
+        "username": "ineedloveqwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2056402330598158608",
+    "created_at": "2026-05-18T15:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056402330598158608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1223415775278428160",
+          "start": 3,
+          "username": "sophhhsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056402330598158608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056328334393385187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sophhhsama: od/化学试剂重开过程\n\n经历过濒死\n并没有什么上帝模式灵魂出窍什么的\n只有痛苦 和 什么都没有 没有虚空什么的\n什么都是假的 就是长眠了而已\n或许是药物的选择 起效太快吧\n很快就晕过去了\n当时太痛苦也太着急了\n如果选择的时间比较好 比较有耐心…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_2056328330731753472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImLuM7WkAA0j5z.jpg",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2056402330598158608",
+        "created_at": "2026-05-18T15:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056402330598158608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1223415775278428160",
+              "start": 3,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056402330598158608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056328334393385187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sophhhsama: od/化学试剂重开过程\n\n经历过濒死\n并没有什么上帝模式灵魂出窍什么的\n只有痛苦 和 什么都没有 没有虚空什么的\n什么都是假的 就是长眠了而已\n或许是药物的选择 起效太快吧\n很快就晕过去了\n当时太痛苦也太着急了\n如果选择的时间比较好 比较有耐心…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056328330731753472"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2056328334393385187",
+        "created_at": "2026-05-18T10:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056328334393385187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QbsEIatJ5q",
+              "end": 173,
+              "expanded_url": "https://x.com/sophhhsama/status/2056328334393385187/photo/1",
+              "media_key": "3_2056328330731753472",
+              "start": 150,
+              "url": "https://t.co/QbsEIatJ5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056328334393385187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "od/化学试剂重开过程\n\n经历过濒死\n并没有什么上帝模式灵魂出窍什么的\n只有痛苦 和 什么都没有 没有虚空什么的\n什么都是假的 就是长眠了而已\n或许是药物的选择 起效太快吧\n很快就晕过去了\n当时太痛苦也太着急了\n如果选择的时间比较好 比较有耐心\n没被发现的话几个小时内就没了\n\no完估计5分钟内昏迷\no完大概30秒就开始吐了\n皮肤变红 体温上升 肌无力\n2分钟左右开始意识不清醒 非常晕\n\n我昏迷后大约一个小时内应该就呼吸抑制 心率剧烈减慢 然后心跳骤停\n昏迷期间多次癫痫发作\n（这些是小猫醒来之后再得知的，不过小猫大概知道那些药物大概会导致发生这些事）\n\n那时候说口里很苦是真的 很苦很苦\n然后也的确吐了很多\n\n急救动作什么各种心肺复苏也做了\n后来呼吸抑制就上了呼吸机 心脏外循环上过滤\n洗胃也洗了\n醒来的时候还有颈部的中心静脉导管 左右手也有各两根留置针\n心口还有AED电极片 心脏骤停应该不止一次了\n\n后遗症\n出院第三天？\n有时候会有胃疼，胃会很敏感\n头疼\n嘴巴一直有种药/苦味\n吃任何药都会胃有点不舒服（未必是疼）\n任何药是指 色 补 各种感冒药 甚至维C片\n食欲不太好 \n因为安装中心静脉导管的时候会有区域麻醉（利多卡因\n到现在舌头某些部分还是有点麻\n导管拿出来的时候有缝针 所以颈部会留疤\n其他的就是出院就吹了风又感冒了🫠\n虽然小猫醒过来之后就一直在解离 情绪问题不会太严重 最多就是焦虑躯体化 焦虑发作吧\n\n所以说吧\n很疼 一切都发生的很快 没有机会回头\n会疼很久很久 如果被救回来的话\n小猫我没有后悔 \n不过到现在身体还在艰难恢复\n身边的人也是有够呛的了 小猫没有办法弥补\n对不起 \n然后吧 如果在看这个的大家有在想重开的话 小猫想说 很累很痛苦的话 睡一觉吧 小猫爱你 真的 虽然这没什么用\n洗个澡 如果还有力气的话\n会变好的 真的 或许不是现在 看不到也没关系 这证明你的痛苦是真实的 你的身体想保护你 重开让小猫变得更累了\n我爱你\n好好休息\n\n后话\n谢谢花花 橘子jim 小森 simon cyrus 还有有尝试联系评论关注的大家\n爱你梦花姐姐 小猫无以为报 谢谢妳\n家里人… 或许小猫不太懂得沟通吧 或者人已经没有力气沟通了 嗯… 也是 我无以为报\n\n身体好点以后 试着做点事吧喵"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 291,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "od/化学试剂重开过程\n\n经历过濒死\n并没有什么上帝模式灵魂出窍什么的\n只有痛苦 和 什么都没有 没有虚空什么的\n什么都是假的 就是长眠了而已\n或许是药物的选择 起效太快吧\n很快就晕过去了\n当时太痛苦也太着急了\n如果选择的时间比较好 比较有耐心\n没被发现的话几个小时内就没了\n\no完估计5分钟内昏迷 https://t.co/QbsEIatJ5q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 162,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 191
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n💕🌸花花@YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 344,
+          "like_count": 19754,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 2771
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

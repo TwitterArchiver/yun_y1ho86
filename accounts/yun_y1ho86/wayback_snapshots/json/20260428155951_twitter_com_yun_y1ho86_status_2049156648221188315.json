@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2049149659151741193",
+    "created_at": "2026-04-28T15:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049156648221188315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1775522951749591040",
+          "start": 0,
+          "username": "binbin77930833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049156648221188315",
+    "in_reply_to_user_id": "1775522951749591040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049153870358839656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@binbin77930833 你开心就好😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2049149659151741193",
+        "created_at": "2026-04-28T15:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049156648221188315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049156648221188315",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049153870358839656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 你开心就好😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2049149659151741193",
+        "created_at": "2026-04-28T15:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049153870358839656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804112443666497536",
+              "start": 0,
+              "username": "yun_y1ho86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049153870358839656",
+        "in_reply_to_user_id": "1804112443666497536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049149659151741193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yun_y1ho86 晶哥别钓鱼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读｜心理学｜哲学｜友跨｜造t已成声｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 10,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 304,
+          "like_count": 1070,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      }
+    ]
+  }
+}

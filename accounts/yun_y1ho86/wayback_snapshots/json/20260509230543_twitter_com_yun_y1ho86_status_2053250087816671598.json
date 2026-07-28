@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2053142599977074737",
+    "created_at": "2026-05-09T23:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T00:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053250087816671598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046955236531855360",
+          "start": 0,
+          "username": "xmliu114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053250087816671598",
+    "in_reply_to_user_id": "2046955236531855360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053142599977074737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmliu114514 其实我倒是觉得，各具所长也各有所短，🇨🇳和湾湾都不能一棒子打死的\n其实让人反感的是思想控制，这一点两边都有；这里面也有很多已经被控制了思想的人\n控制思想本质上是为了维护统一\n但是要知道，攥紧一把沙子总会有漏出去的\n所以啊，人要学会理性辩证看待\n（本人不建政，望理解）\n然后我也打go，＋我！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053142590476939264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH46TtqacAAob0B.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2053142599977074737",
+        "created_at": "2026-05-09T23:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T00:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053250087816671598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046955236531855360",
+              "start": 0,
+              "username": "xmliu114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053250087816671598",
+        "in_reply_to_user_id": "2046955236531855360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053142599977074737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmliu114514 其实我倒是觉得，各具所长也各有所短，🇨🇳和湾湾都不能一棒子打死的\n其实让人反感的是思想控制，这一点两边都有；这里面也有很多已经被控制了思想的人\n控制思想本质上是为了维护统一\n但是要知道，攥紧一把沙子总会有漏出去的\n所以啊，人要学会理性辩证看待\n（本人不建政，望理解）\n然后我也打go，＋我！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053142590476939264"
+          ]
+        },
+        "author_id": "2046955236531855360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2053142599977074737",
+        "created_at": "2026-05-09T15:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053142599977074737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoaxHZa1yj",
+              "end": 170,
+              "expanded_url": "https://x.com/xmliu114514/status/2053142599977074737/photo/1",
+              "media_key": "3_2053142590476939264",
+              "start": 147,
+              "url": "https://t.co/RoaxHZa1yj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053142599977074737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1707,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是 xmliu，很高兴认识你们～\n我出生于2005年8月22日，中国人🇨🇳，简繁都🉑，药娘🏳️‍⚧️，会建政❗❗❗玩瓦罗兰特、CS2、王者荣耀。左翼青年，认同两岸和平统一。希望能多认识一些朋友。如果能友善交流，即使观点不完全一样，我们也可以做好朋友😋讨厌我的话就直接屏蔽我吧，我受不了被骂🥺 https://t.co/RoaxHZa1yj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 98,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 90
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T14:12:44.000Z",
+        "description": "小号：@xm0347347185242/药娘/MtF/🏳️‍⚧️|中国人🇨🇳/反台独/左翼青年/包容不同政见(台独除外)/不反日/两岸和统/可以互fo/不主动b人/入🚪89.64/刚开始发育求夸🥹 /如果讨厌就屏蔽我吧😊(🇨🇳=🇨🇳🇭🇰🇹🇼🇲🇴)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "xm0347347185242"
+              }
+            ]
+          }
+        },
+        "id": "2046955236531855360",
+        "name": "Liuxm☭❂🇨🇳🇹🇼🇭🇰🇲🇴🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2053142599977074737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051459333859545088/XuF551dc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 212,
+          "like_count": 2147,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 200
+        },
+        "username": "xmliu114514",
+        "verified": false
+      }
+    ]
+  }
+}

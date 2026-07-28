@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2054536205396836450",
+    "created_at": "2026-05-13T13:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054558612643815770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "AuroraLight_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054558612643815770",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054536205396836450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AuroraLight_01 或许去寄宿学校也是个转机...不要学坏了啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2054536182684651520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMtxdMbEAAZLEM.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2054536205396836450",
+        "created_at": "2026-05-13T13:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054558612643815770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "AuroraLight_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054558612643815770",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054536205396836450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuroraLight_01 或许去寄宿学校也是个转机...不要学坏了啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054536182684651520"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054536205396836450",
+        "created_at": "2026-05-13T12:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054536205396836450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WyqOSsSDDo",
+              "end": 154,
+              "expanded_url": "https://x.com/AuroraLight_01/status/2054536205396836450/photo/1",
+              "media_key": "3_2054536182684651520",
+              "start": 131,
+              "url": "https://t.co/WyqOSsSDDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054536205396836450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 680,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年龄党有什么好羡慕的？😭我的手机又被我的妈砸了一个，这是我买的1+。妈还又说让我在寄宿学校做好准备，我怎么那么苦啊。😭😭😭我想离家出走了。。。寄宿学校的话，有没有什么药能让我产生心理疾病让学校接受不了我啊？如果都不行，我拿刀抵在我胸口上，或许按下去就彻底没事了 https://t.co/WyqOSsSDDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 130,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 150
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？推龄最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,断糖ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常-自残🔪  不Od💊  \n关注芸光谢谢喵~（目标900fo QWQ）\n—————\n我只想要与你留住每个瞬间”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Coxe_Pica",
+                "end": 23,
+                "expanded_url": "http://t.me/Coxe_Pica",
+                "start": 0,
+                "url": "https://t.co/ic4apAlvVH"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱AuroraLight 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2053779388169412843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 18,
+          "like_count": 1660,
+          "listed_count": 5,
+          "media_count": 93,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/ic4apAlvVH",
+        "username": "AuroraLight_01",
+        "verified": true
+      }
+    ]
+  }
+}

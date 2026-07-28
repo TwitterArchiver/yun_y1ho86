@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2050662154580439384",
+    "created_at": "2026-05-03T00:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T01:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050729135937622071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916779760824557568",
+          "start": 0,
+          "username": "HysteriaAndLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050729135937622071",
+    "in_reply_to_user_id": "1916779760824557568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050662154580439384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HysteriaAndLove 我什么也做不到，晚安吧..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2050662154580439384",
+        "created_at": "2026-05-03T00:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T01:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050729135937622071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916779760824557568",
+              "start": 0,
+              "username": "HysteriaAndLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050729135937622071",
+        "in_reply_to_user_id": "1916779760824557568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050662154580439384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HysteriaAndLove 我什么也做不到，晚安吧..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916779760824557568",
+        "conversation_id": "2050662154580439384",
+        "created_at": "2026-05-02T19:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T20:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050662154580439384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hysteriaandlov…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hysteriaandlove/status/2050649793039663288",
+              "start": 4,
+              "url": "https://t.co/uGG1GclayK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050662154580439384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050649793039663288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都吃了 https://t.co/uGG1GclayK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 40,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T09:02:11.000Z",
+        "description": "都去死都去死都去死",
+        "id": "1916779760824557568",
+        "location": "裹尸袋里",
+        "name": "⸸​⛧Nana⛧⸸",
+        "pinned_tweet_id": "2049050637820936616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048601957359890432/BEzYF_xy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 112,
+          "like_count": 3178,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 3403
+        },
+        "username": "HysteriaAndLove",
+        "verified": false
+      }
+    ]
+  }
+}

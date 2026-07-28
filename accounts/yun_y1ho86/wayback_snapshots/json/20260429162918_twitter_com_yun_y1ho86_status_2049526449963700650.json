@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2049523897209676046",
+    "created_at": "2026-04-29T16:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049526449963700650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047679401400373248",
+          "start": 0,
+          "username": "Hysteriadie0331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049526449963700650",
+    "in_reply_to_user_id": "2047679401400373248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049523897209676046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hysteriadie0331 和我同一天生日？！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049523897209676046].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049523897209676046",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049523897209676046"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2049523897209676046",
+        "created_at": "2026-04-29T16:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049526449963700650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047679401400373248",
+              "start": 0,
+              "username": "Hysteriadie0331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049526449963700650",
+        "in_reply_to_user_id": "2047679401400373248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049523897209676046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hysteriadie0331 和我同一天生日？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读｜心理学｜哲学｜友跨｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 23,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:10:22.000Z",
+        "description": "生日:2009.10.28｜mtf｜轻度GD｜已断糖🍥｜有易性症病历｜家长反对党｜天残党｜INFP-T｜逆来顺受｜BPD｜同类fo｜请和咱交朋友嘛~｜疑似精神病患者（有病历）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hysteriadie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hysteriadie",
+                "start": 0,
+                "url": "https://t.co/TRsizLBvcB"
+              }
+            ]
+          }
+        },
+        "id": "2047679401400373248",
+        "location": "World Internet",
+        "name": "Overlove🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2049133663842185480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049140073057382400/T3H11OqV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 179,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/TRsizLBvcB",
+        "username": "Hysteriadie0331",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2054581688983044336",
+    "created_at": "2026-05-13T15:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T16:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054584297680773382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1668693781791784961",
+          "start": 0,
+          "username": "yifu0753"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054584297680773382",
+    "in_reply_to_user_id": "1668693781791784961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054581688983044336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifu0753 抱抱你😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2054581688983044336",
+        "created_at": "2026-05-13T15:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054584297680773382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054584297680773382",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054581688983044336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 抱抱你😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2054581688983044336",
+        "created_at": "2026-05-13T15:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054581688983044336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054581688983044336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "将于本月内自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 131,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 153
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 1167,
+          "like_count": 6582,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1673
+        },
+        "username": "yifu0753",
+        "verified": true
+      }
+    ]
+  }
+}

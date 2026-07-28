@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2052715534664585468",
+    "created_at": "2026-05-15T02:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T03:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055113422631772443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942368986051796992",
+          "start": 0,
+          "username": "CunZai1069"
+        },
+        {
+          "end": 24,
+          "id": "1633318217329541123",
+          "start": 12,
+          "username": "IAmRealMiao"
+        },
+        {
+          "end": 39,
+          "id": "1551536855878967296",
+          "start": 25,
+          "username": "thisisadrviel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055113422631772443",
+    "in_reply_to_user_id": "1942368986051796992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055085430127964407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CunZai1069 @IAmRealMiao @thisisadrviel 这就是自证陷阱，但毕竟怀疑方也是空口无凭。一个演员演技无论多么精湛也总不是亲历者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2052715534664585468",
+        "created_at": "2026-05-15T02:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055113422631772443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            },
+            {
+              "end": 24,
+              "id": "1633318217329541123",
+              "start": 12,
+              "username": "IAmRealMiao"
+            },
+            {
+              "end": 39,
+              "id": "1551536855878967296",
+              "start": 25,
+              "username": "thisisadrviel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055113422631772443",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055085430127964407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 @IAmRealMiao @thisisadrviel 这就是自证陷阱，但毕竟怀疑方也是空口无凭。一个演员演技无论多么精湛也总不是亲历者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2052715534664585468",
+        "created_at": "2026-05-15T00:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055085430127964407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1633318217329541123",
+              "start": 0,
+              "username": "IAmRealMiao"
+            },
+            {
+              "end": 27,
+              "id": "1551536855878967296",
+              "start": 13,
+              "username": "thisisadrviel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055085430127964407",
+        "in_reply_to_user_id": "1633318217329541123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055080323734810790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IAmRealMiao @thisisadrviel 我理解，我只是发个自杀帖，在家美美睡五天，再回来说我又活了，狠狠收割一波流量。至于真的吞药了吗，真的吞了多少，真的是抢救回来的吗，这不重要，就算我把住院证明和消费记录全贴出来，这也不会改变什么。只在结果的角度上，我得到了关注，得到了流量，得到了很多fo。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 143,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 160
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 700,
+          "like_count": 1585,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-08T04:06:37.000Z",
+        "description": "",
+        "id": "1633318217329541123",
+        "location": "北京 中南海",
+        "name": "jellymiao",
+        "pinned_tweet_id": "2010576366937518443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033645745417687042/_2kX5ltp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 512,
+          "like_count": 7113,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 3278
+        },
+        "username": "IAmRealMiao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-25T11:57:13.000Z",
+        "description": "",
+        "id": "1551536855878967296",
+        "name": "2 1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551537051228667908/0O8k1SX__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "thisisadrviel",
+        "verified": false
+      }
+    ]
+  }
+}

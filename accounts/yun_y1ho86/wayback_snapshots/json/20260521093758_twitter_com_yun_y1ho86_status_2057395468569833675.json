@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2057395468569833675",
+    "created_at": "2026-05-21T09:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T10:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057395468569833675"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057395468569833675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在的梦想是过上安稳的生活，之后在空余的时候写一本能让人沉浸又励志的科幻小说...鲁迅的弃医从文其实是非常正确的啊！\n戒o，一定好好活着！🙂‍↕️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2057395468569833675",
+        "created_at": "2026-05-21T09:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057395468569833675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057395468569833675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的梦想是过上安稳的生活，之后在空余的时候写一本能让人沉浸又励志的科幻小说...鲁迅的弃医从文其实是非常正确的啊！\n戒o，一定好好活着！🙂‍↕️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 170,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 214
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      }
+    ]
+  }
+}

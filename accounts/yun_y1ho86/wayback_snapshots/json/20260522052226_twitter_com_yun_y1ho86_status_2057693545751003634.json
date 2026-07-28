@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2057693545751003634",
+    "created_at": "2026-05-22T05:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057693545751003634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2048646811439738880",
+          "start": 3,
+          "username": "maomaojianga_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057693545751003634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057532274502152563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maomaojianga_: 谁和我互fo喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2057693545751003634",
+        "created_at": "2026-05-22T05:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057693545751003634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2048646811439738880",
+              "start": 3,
+              "username": "maomaojianga_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057693545751003634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057532274502152563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maomaojianga_: 谁和我互fo喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048646811439738880",
+        "conversation_id": "2057532274502152563",
+        "created_at": "2026-05-21T18:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057532274502152563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057532274502152563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁和我互fo喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 178,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 242
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T06:19:52.000Z",
+        "description": "想交朋友，有没有药圈的可以和我交朋友，xyn，xnn之类的我都想交，多来点人和我交朋友，越多越好",
+        "id": "2048646811439738880",
+        "name": "猫猫",
+        "pinned_tweet_id": "2057532274502152563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048648306482696192/-EYKrYk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 29,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "username": "maomaojianga_",
+        "verified": false
+      }
+    ]
+  }
+}

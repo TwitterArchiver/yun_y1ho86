@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055823971980042240"
+      ]
+    },
+    "author_id": "1804112443666497536",
+    "conversation_id": "2055823974320451987",
+    "created_at": "2026-05-17T01:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T02:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055823974320451987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dUzy48tKdr",
+          "end": 174,
+          "expanded_url": "https://x.com/yun_y1ho86/status/2055823974320451987/photo/1",
+          "media_key": "3_2055823971980042240",
+          "start": 151,
+          "url": "https://t.co/dUzy48tKdr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055823974320451987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "根据你对我的长期印象，与我X账号@ xxx的历史推文直接创作我的日漫角色形象，完成角色人设图，不要给名字年纪之类的设定。请自行完成角色的全部设计，包括外貌、神态、发型、穿搭、色彩氛围、配饰和背景元素，并以简单日漫风格（simple anime style）呈现。避免半写实、3D、韩漫风和刻板化模板。 https://t.co/dUzy48tKdr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2055823971980042240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfBAqKaYAAxC5v.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055823971980042240"
+          ]
+        },
+        "author_id": "1804112443666497536",
+        "conversation_id": "2055823974320451987",
+        "created_at": "2026-05-17T01:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055823974320451987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUzy48tKdr",
+              "end": 174,
+              "expanded_url": "https://x.com/yun_y1ho86/status/2055823974320451987/photo/1",
+              "media_key": "3_2055823971980042240",
+              "start": 151,
+              "url": "https://t.co/dUzy48tKdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055823974320451987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根据你对我的长期印象，与我X账号@ xxx的历史推文直接创作我的日漫角色形象，完成角色人设图，不要给名字年纪之类的设定。请自行完成角色的全部设计，包括外貌、神态、发型、穿搭、色彩氛围、配饰和背景元素，并以简单日漫风格（simple anime style）呈现。避免半写实、3D、韩漫风和刻板化模板。 https://t.co/dUzy48tKdr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 156,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 171
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      }
+    ]
+  }
+}

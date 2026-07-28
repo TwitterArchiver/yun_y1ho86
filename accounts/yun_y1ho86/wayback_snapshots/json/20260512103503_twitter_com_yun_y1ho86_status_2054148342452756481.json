@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2054148342452756481",
+    "created_at": "2026-05-12T10:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054148342452756481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NNNullptr/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/NNNullptr/status/2054106275072626688",
+          "start": 11,
+          "url": "https://t.co/PThhY0JoqT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054148342452756481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054106275072626688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别学物理类，别学物理 https://t.co/PThhY0JoqT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2054148342452756481",
+        "created_at": "2026-05-12T10:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054148342452756481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NNNullptr/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/NNNullptr/status/2054106275072626688",
+              "start": 11,
+              "url": "https://t.co/PThhY0JoqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054148342452756481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054106275072626688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别学物理类，别学物理 https://t.co/PThhY0JoqT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2054106275072626688",
+        "created_at": "2026-05-12T07:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054106275072626688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054106275072626688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别学数学类，别学数学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 124,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 133
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 151,
+          "like_count": 5607,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

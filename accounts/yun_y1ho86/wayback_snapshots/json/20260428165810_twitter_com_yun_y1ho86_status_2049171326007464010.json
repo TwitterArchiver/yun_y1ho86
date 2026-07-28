@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2049132894019551609",
+    "created_at": "2026-04-28T16:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049171326007464010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952257824664485888",
+          "start": 0,
+          "username": "LibailuOne"
+        },
+        {
+          "end": 23,
+          "id": "1953249928320565254",
+          "start": 12,
+          "username": "JiaYu56300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049171326007464010",
+    "in_reply_to_user_id": "1952257824664485888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049132894019551609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LibailuOne @JiaYu56300 没事的没事的，没事的没事的，没事的没事的，明天就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049132888223109121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_7gUwb0AEULju.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049132888810278915",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_7gW8bUAMPeSr.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049132889804308480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_7gapbAAAsyda.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2049132894019551609",
+        "created_at": "2026-04-28T16:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049171326007464010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952257824664485888",
+              "start": 0,
+              "username": "LibailuOne"
+            },
+            {
+              "end": 23,
+              "id": "1953249928320565254",
+              "start": 12,
+              "username": "JiaYu56300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049171326007464010",
+        "in_reply_to_user_id": "1952257824664485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049132894019551609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LibailuOne @JiaYu56300 没事的没事的，没事的没事的，没事的没事的，明天就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049132888223109121",
+            "3_2049132888810278915",
+            "3_2049132889804308480"
+          ]
+        },
+        "author_id": "1952257824664485888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049132894019551609",
+        "created_at": "2026-04-28T14:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049132894019551609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1953249928320565254",
+              "start": 6,
+              "username": "JiaYu56300"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IevKT2k6ge",
+              "end": 100,
+              "expanded_url": "https://x.com/LibailuOne/status/2049132894019551609/photo/1",
+              "media_key": "3_2049132888223109121",
+              "start": 77,
+              "url": "https://t.co/IevKT2k6ge"
+            },
+            {
+              "display_url": "pic.x.com/IevKT2k6ge",
+              "end": 100,
+              "expanded_url": "https://x.com/LibailuOne/status/2049132894019551609/photo/1",
+              "media_key": "3_2049132888810278915",
+              "start": 77,
+              "url": "https://t.co/IevKT2k6ge"
+            },
+            {
+              "display_url": "pic.x.com/IevKT2k6ge",
+              "end": 100,
+              "expanded_url": "https://x.com/LibailuOne/status/2049132894019551609/photo/1",
+              "media_key": "3_2049132889804308480",
+              "start": 77,
+              "url": "https://t.co/IevKT2k6ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049132894019551609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4475,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "誰能救救她，@JiaYu56300我求你們了，她現在自殺慾望非常強，有重度抑鬱，我只知道她在大連的某個大學，不知道她電話，我求你們所有人救救她，求你們。 https://t.co/IevKT2k6ge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读｜心理学｜哲学｜友跨｜造t已成声｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T06:38:58.000Z",
+        "description": "原諒我吧，我這個罪人。Forgive me, a sinner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/libailu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/libailu",
+                "start": 0,
+                "url": "https://t.co/QnEdZGJvUw"
+              }
+            ]
+          }
+        },
+        "id": "1952257824664485888",
+        "location": "亚神瑞亚尼赛亚（Asenruia Nisaa）",
+        "name": "Libailu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049090787191992320/M7ZR9HqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 370,
+          "like_count": 8925,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/QnEdZGJvUw",
+        "username": "LibailuOne",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T00:21:02.000Z",
+        "description": "雌二醇重度依赖(无证)💊🍬🍭🍥🏳‍⚧(同类求互关喵)\n喜欢二次元，音游，速核，cosplay，甜食控，魔爪控，od，i/e人随机，多重人格，利他主义，泛性恋，花刀艺术，m，168/48\n妹妹：@Libailu🍥🏳️‍⚧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 96,
+                "username": "Libailu"
+              }
+            ]
+          }
+        },
+        "id": "1953249928320565254",
+        "name": "食用性少女🍥🏳‍⚧",
+        "pinned_tweet_id": "2031299825350939003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031568383674859520/obzcVkmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 39,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 63
+        },
+        "username": "JiaYu56300",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2053162696791802245",
+    "created_at": "2026-05-10T02:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T03:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053308341619949809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752538285459795968",
+          "start": 0,
+          "username": "tadatsukiei"
+        },
+        {
+          "end": 29,
+          "id": "1991445096013918208",
+          "start": 13,
+          "username": "SakurabaEma_ITN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053308341619949809",
+    "in_reply_to_user_id": "1752538285459795968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053305559122915376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tadatsukiei @SakurabaEma_ITN 嗯，对，这个方面很深刻\n一个狼群会变成两个狼群，甚至会反目成仇\n同样的社会效应有可能会形成国家，宗教，民族，就像现在这样……这里就不必多说了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2053162696791802245",
+        "created_at": "2026-05-10T02:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053308341619949809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            },
+            {
+              "end": 29,
+              "id": "1991445096013918208",
+              "start": 13,
+              "username": "SakurabaEma_ITN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053308341619949809",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053305559122915376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei @SakurabaEma_ITN 嗯，对，这个方面很深刻\n一个狼群会变成两个狼群，甚至会反目成仇\n同样的社会效应有可能会形成国家，宗教，民族，就像现在这样……这里就不必多说了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2053162696791802245",
+        "created_at": "2026-05-10T02:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053305559122915376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804112443666497536",
+              "start": 0,
+              "username": "yun_y1ho86"
+            },
+            {
+              "end": 28,
+              "id": "1991445096013918208",
+              "start": 12,
+              "username": "SakurabaEma_ITN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tadatsukiei/st…",
+              "end": 110,
+              "expanded_url": "https://x.com/tadatsukiei/status/2050948203693154420?s=46",
+              "start": 87,
+              "url": "https://t.co/MsmSx1BUJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053305559122915376",
+        "in_reply_to_user_id": "1804112443666497536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050948203693154420",
+            "type": "quoted"
+          },
+          {
+            "id": "2053303861373481221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yun_y1ho86 @SakurabaEma_ITN 我们的大脑潜意识就有划分敌我，排斥异己的本能，但这是不对的，是非理性的，是演化残留的屎山代码，应该用主观意识抑制。\nhttps://t.co/MsmSx1BUJG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 106,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 108
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 455,
+          "like_count": 87661,
+          "listed_count": 9,
+          "media_count": 461,
+          "tweet_count": 5944
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-20T09:54:50.000Z",
+        "description": "｜真理不靠雷霆落，破尽谎言路自开｜以是非定立场而不是以立场定是非｜主人老婆 @KOISHI_IV｜“我希望有一天，所有人都能站在自由民主平等的蓝天之下”｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "KOISHI_IV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakurabaema_itn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakurabaema_itn",
+                "start": 0,
+                "url": "https://t.co/nTmMgey0m1"
+              }
+            ]
+          }
+        },
+        "id": "1991445096013918208",
+        "location": "马斯克的祖坟头上",
+        "name": "英酱猫猫🍥",
+        "pinned_tweet_id": "2021286628187320504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445156823003136/fQqmo6Tk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 98,
+          "like_count": 5648,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/nTmMgey0m1",
+        "username": "SakurabaEma_ITN",
+        "verified": false
+      }
+    ]
+  }
+}

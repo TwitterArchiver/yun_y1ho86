@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2049160402735693933",
+    "created_at": "2026-04-29T08:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049403877372710916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042401844899823618",
+          "start": 0,
+          "username": "Tutongba04y2"
+        },
+        {
+          "end": 30,
+          "id": "1757603703811371008",
+          "start": 14,
+          "username": "SonjaTasha26957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049403877372710916",
+    "in_reply_to_user_id": "2042401844899823618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049275299297370489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tutongba04y2 @SonjaTasha26957 脑子有问题的是你！丢雷老牟亖全家的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2049160402735693933",
+        "created_at": "2026-04-29T08:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049403877372710916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042401844899823618",
+              "start": 0,
+              "username": "Tutongba04y2"
+            },
+            {
+              "end": 30,
+              "id": "1757603703811371008",
+              "start": 14,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049403877372710916",
+        "in_reply_to_user_id": "2042401844899823618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049275299297370489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tutongba04y2 @SonjaTasha26957 脑子有问题的是你！丢雷老牟亖全家的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042401844899823618",
+        "conversation_id": "2049160402735693933",
+        "created_at": "2026-04-28T23:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049275299297370489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049275299297370489",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049160402735693933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 好似😂😂跨性别死了就死了呗全都是自己作的，都跨性别了脑子肯定多多少少有点问题，死了都算是为民除害，另外祝回复我的跨性别主义者也能早点飞升，早日暴毙身亡😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读｜心理学｜哲学｜友跨｜造t已成声｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T00:40:46.000Z",
+        "description": "我们是tu同吧的海外媒体账号。\nWe are the official Tutongba (anti-LGBTQ community) account on X.",
+        "id": "2042401844899823618",
+        "name": "Tutongba",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042403035054555137/HSVhcO_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 90,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 107
+        },
+        "username": "Tutongba04y2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049254324233240852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 248,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 490
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      }
+    ]
+  }
+}

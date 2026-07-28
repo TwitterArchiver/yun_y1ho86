@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2053416012440322202",
+    "created_at": "2026-05-10T10:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053416012440322202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928795754346459138",
+          "start": 3,
+          "username": "existornull"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053416012440322202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053394737525358855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @existornull: 讣告:本人于今日下午4：40分吃完30粒泰补后跳楼自杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2053416012440322202",
+        "created_at": "2026-05-10T10:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053416012440322202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1928795754346459138",
+              "start": 3,
+              "username": "existornull"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053416012440322202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053394737525358855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @existornull: 讣告:本人于今日下午4：40分吃完30粒泰补后跳楼自杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928795754346459138",
+        "conversation_id": "2053394737525358855",
+        "created_at": "2026-05-10T08:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053394737525358855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053394737525358855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1046,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "讣告:本人于今日下午4：40分吃完30粒泰补后跳楼自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 107,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 111
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T12:49:03.000Z",
+        "description": "10后/mtf/intp/164 100/持证含糖/pjsk\n柰芸喜欢早上一杯咖啡一本书，下午一壶茶一个唱片，晚上一场散步一架琴的生活\n希望世界能温柔一点\n小证25.12.15 hrt8.16\n🚪30",
+        "id": "1928795754346459138",
+        "location": "中国浙江",
+        "name": "奈芸🍥",
+        "pinned_tweet_id": "2048059573215601065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999500760246288384/rM1oLj6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 209,
+          "like_count": 58,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 99
+        },
+        "username": "existornull",
+        "verified": false
+      }
+    ]
+  }
+}

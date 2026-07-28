@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2057469913783300261",
+    "created_at": "2026-05-21T14:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057469913783300261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2012958305308565505",
+          "start": 3,
+          "username": "raindreamya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057469913783300261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057467260122673250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @raindreamya: 现在已经在医院了不用太过担心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2057469913783300261",
+        "created_at": "2026-05-21T14:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057469913783300261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2012958305308565505",
+              "start": 3,
+              "username": "raindreamya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057469913783300261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057467260122673250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @raindreamya: 现在已经在医院了不用太过担心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012958305308565505",
+        "conversation_id": "2057467260122673250",
+        "created_at": "2026-05-21T14:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057467260122673250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciallo_114_514…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ciallo_114_514/status/2057448825481257281",
+              "start": 15,
+              "url": "https://t.co/0KFICwGYrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057467260122673250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057448825481257281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在已经在医院了不用太过担心 https://t.co/0KFICwGYrU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 171,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 217
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T18:41:01.000Z",
+        "description": "🏳️‍⚧️🍥暂时是只刚出炉的mtf喵~🍥🏳️‍⚧️\n🏳️‍⚧️生产日期10.3.5 | 无证含糖 | 🍬HRT 26.2.13 | 💥 26.3.2 炸柜 |「常驻江浙沪」 |182cm 62kg | 这里可以通过tg联系窝喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rainsnowdream",
+                "end": 23,
+                "expanded_url": "http://t.me/rainsnowdream",
+                "start": 0,
+                "url": "https://t.co/gbPraZolk2"
+              }
+            ]
+          }
+        },
+        "id": "2012958305308565505",
+        "name": "雨梦🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043635114064986112/vB72dk36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 139,
+          "like_count": 1162,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/gbPraZolk2",
+        "username": "raindreamya",
+        "verified": false
+      }
+    ]
+  }
+}

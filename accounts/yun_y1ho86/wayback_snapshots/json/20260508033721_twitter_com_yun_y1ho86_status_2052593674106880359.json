@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2052593674106880359",
+    "created_at": "2026-05-08T03:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052593674106880359"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052593674106880359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看见这个帖子的人，你们都辛苦了\n这个世界很残酷，不如意之事十之八九\n但是你们都坚持下来了，你们都是英雄\n这个世界上还有很多很多善良的人\n所有善良和隐忍的人都值得被温柔以待\n就当这是一场磨练\n相信有破茧成蝶的那一天的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2052593674106880359",
+        "created_at": "2026-05-08T03:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052593674106880359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052593674106880359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看见这个帖子的人，你们都辛苦了\n这个世界很残酷，不如意之事十之八九\n但是你们都坚持下来了，你们都是英雄\n这个世界上还有很多很多善良的人\n所有善良和隐忍的人都值得被温柔以待\n就当这是一场磨练\n相信有破茧成蝶的那一天的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 65,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 61
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057479110247755776",
+        "3_2057479110243635200"
+      ],
+      "media_source_tweet_id": [
+        "2057479127113125922",
+        "2057479127113125922"
+      ]
+    },
+    "author_id": "1804112443666497536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057620672256606631",
+    "created_at": "2026-05-22T00:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T01:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057620672256606631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026876224589701120",
+          "start": 3,
+          "username": "R1k0xo33w"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ExIGSeas8i",
+          "end": 60,
+          "expanded_url": "https://x.com/R1k0xo33w/status/2057479127113125922/photo/1",
+          "media_key": "3_2057479110247755776",
+          "start": 37,
+          "url": "https://t.co/ExIGSeas8i"
+        },
+        {
+          "display_url": "pic.x.com/ExIGSeas8i",
+          "end": 60,
+          "expanded_url": "https://x.com/R1k0xo33w/status/2057479127113125922/photo/1",
+          "media_key": "3_2057479110243635200",
+          "start": 37,
+          "url": "https://t.co/ExIGSeas8i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057620672256606631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057479127113125922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R1k0xo33w: 118t阿普和80t普瑞 全吃了飞升成仙嗷 https://t.co/ExIGSeas8i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057479110247755776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2iWYsasAAlh9y.jpg",
+        "width": 1968
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057479110243635200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2iWYrb0AAilk8.jpg",
+        "width": 1946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057479110247755776",
+            "3_2057479110243635200"
+          ],
+          "media_source_tweet_id": [
+            "2057479127113125922",
+            "2057479127113125922"
+          ]
+        },
+        "author_id": "1804112443666497536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057620672256606631",
+        "created_at": "2026-05-22T00:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057620672256606631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026876224589701120",
+              "start": 3,
+              "username": "R1k0xo33w"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExIGSeas8i",
+              "end": 60,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2057479127113125922/photo/1",
+              "media_key": "3_2057479110247755776",
+              "start": 37,
+              "url": "https://t.co/ExIGSeas8i"
+            },
+            {
+              "display_url": "pic.x.com/ExIGSeas8i",
+              "end": 60,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2057479127113125922/photo/1",
+              "media_key": "3_2057479110243635200",
+              "start": 37,
+              "url": "https://t.co/ExIGSeas8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057620672256606631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057479127113125922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R1k0xo33w: 118t阿普和80t普瑞 全吃了飞升成仙嗷 https://t.co/ExIGSeas8i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057479110247755776",
+            "3_2057479110243635200"
+          ]
+        },
+        "author_id": "2026876224589701120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057479127113125922",
+        "created_at": "2026-05-21T15:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057479127113125922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExIGSeas8i",
+              "end": 45,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2057479127113125922/photo/1",
+              "media_key": "3_2057479110247755776",
+              "start": 22,
+              "url": "https://t.co/ExIGSeas8i"
+            },
+            {
+              "display_url": "pic.x.com/ExIGSeas8i",
+              "end": 45,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2057479127113125922/photo/1",
+              "media_key": "3_2057479110243635200",
+              "start": 22,
+              "url": "https://t.co/ExIGSeas8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057479127113125922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "118t阿普和80t普瑞 全吃了飞升成仙嗷 https://t.co/ExIGSeas8i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 177,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 234
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T04:25:31.000Z",
+        "description": "一直在找我是谁#颓废磕药#是个可爱的孩子#",
+        "id": "2026876224589701120",
+        "name": "鲤",
+        "pinned_tweet_id": "2035834585226019160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038180445620453376/K2BlHK_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 99,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 562
+        },
+        "username": "R1k0xo33w",
+        "verified": false
+      }
+    ]
+  }
+}

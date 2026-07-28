@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2056541982789439579",
+    "created_at": "2026-05-19T01:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056541982789439579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1863233896403628033",
+          "start": 3,
+          "username": "dontweepalone"
+        },
+        {
+          "end": 30,
+          "id": "1802653294554230784",
+          "start": 21,
+          "username": "mnweeper"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056541982789439579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056418972074143974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dontweepalone: 我是@mnweeper二世（）账号被冻结😭找回互关中…🥺"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [mnweeper].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mnweeper",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "mnweeper"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2056541982789439579",
+        "created_at": "2026-05-19T01:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056541982789439579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1863233896403628033",
+              "start": 3,
+              "username": "dontweepalone"
+            },
+            {
+              "end": 30,
+              "id": "1802653294554230784",
+              "start": 21,
+              "username": "mnweeper"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056541982789439579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056418972074143974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dontweepalone: 我是@mnweeper二世（）账号被冻结😭找回互关中…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2056418972074143974",
+        "created_at": "2026-05-18T16:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056418972074143974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802653294554230784",
+              "start": 2,
+              "username": "mnweeper"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056418972074143974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是@mnweeper二世（）账号被冻结😭找回互关中…🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 164,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 194
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜sh｜CH/EN｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "pinned_tweet_id": "2056418972074143974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056418645686063104/2L0qxg8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 40,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

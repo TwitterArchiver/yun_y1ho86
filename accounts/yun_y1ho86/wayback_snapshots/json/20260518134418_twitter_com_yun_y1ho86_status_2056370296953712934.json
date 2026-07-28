@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2056370068670296426",
+    "created_at": "2026-05-18T13:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056370296953712934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "查看您的保密性压抑指数分数。本页包含您的个人测试结果，以及对分数含义的详细解读。",
+          "display_url": "srquiz.com/zh/results?ses…",
+          "end": 23,
+          "expanded_url": "https://srquiz.com/zh/results?sessionId=session_1779094400929_gylbt8kwp",
+          "images": [
+            {
+              "height": 362,
+              "url": "https://pbs.twimg.com/news_img/2056370308857163776/DOjSE0yr?format=png&name=orig",
+              "width": 362
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2056370308857163776/DOjSE0yr?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "您的性压抑指数测试结果 | SRQuiz",
+          "unwound_url": "https://srquiz.com/zh/results?sessionId=session_1779094400929_gylbt8kwp",
+          "url": "https://t.co/ynvzoUIiwk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056370296953712934",
+    "in_reply_to_user_id": "1804112443666497536",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056370068670296426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/ynvzoUIiwk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056370058356559872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImxrEcXkAAVF80.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2056370068670296426",
+        "created_at": "2026-05-18T13:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056370296953712934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "查看您的保密性压抑指数分数。本页包含您的个人测试结果，以及对分数含义的详细解读。",
+              "display_url": "srquiz.com/zh/results?ses…",
+              "end": 23,
+              "expanded_url": "https://srquiz.com/zh/results?sessionId=session_1779094400929_gylbt8kwp",
+              "images": [
+                {
+                  "height": 362,
+                  "url": "https://pbs.twimg.com/news_img/2056370308857163776/DOjSE0yr?format=png&name=orig",
+                  "width": 362
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056370308857163776/DOjSE0yr?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "您的性压抑指数测试结果 | SRQuiz",
+              "unwound_url": "https://srquiz.com/zh/results?sessionId=session_1779094400929_gylbt8kwp",
+              "url": "https://t.co/ynvzoUIiwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056370296953712934",
+        "in_reply_to_user_id": "1804112443666497536",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056370068670296426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ynvzoUIiwk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056370058356559872"
+          ]
+        },
+        "author_id": "1804112443666497536",
+        "conversation_id": "2056370068670296426",
+        "created_at": "2026-05-18T13:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056370068670296426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jy8wIQGODY",
+              "end": 27,
+              "expanded_url": "https://x.com/yun_y1ho86/status/2056370068670296426/photo/1",
+              "media_key": "3_2056370058356559872",
+              "start": 4,
+              "url": "https://t.co/Jy8wIQGODY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056370068670296426",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？？ https://t.co/Jy8wIQGODY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 162,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 189
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2049311755365699926",
+    "created_at": "2026-04-29T03:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049327202039422994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952257824664485888",
+          "start": 0,
+          "username": "LibailuOne"
+        },
+        {
+          "end": 23,
+          "id": "1953249928320565254",
+          "start": 12,
+          "username": "JiaYu56300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049327202039422994",
+    "in_reply_to_user_id": "1952257824664485888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049311755365699926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LibailuOne @JiaYu56300 没事就好，好好休息一下吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2049311755365699926",
+        "created_at": "2026-04-29T03:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049327202039422994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952257824664485888",
+              "start": 0,
+              "username": "LibailuOne"
+            },
+            {
+              "end": 23,
+              "id": "1953249928320565254",
+              "start": 12,
+              "username": "JiaYu56300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049327202039422994",
+        "in_reply_to_user_id": "1952257824664485888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049311755365699926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LibailuOne @JiaYu56300 没事就好，好好休息一下吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952257824664485888",
+        "conversation_id": "2049311755365699926",
+        "created_at": "2026-04-29T02:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049311755365699926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1953249928320565254",
+              "start": 4,
+              "username": "JiaYu56300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049311755365699926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "通知一下@JiaYu56300沒事了，謝謝大家幫助和關心，謝謝你們。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读｜心理学｜哲学｜友跨｜造t已成声｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T06:38:58.000Z",
+        "description": "原諒我吧，我這個罪人。Forgive me, a sinner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/libailu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/libailu",
+                "start": 0,
+                "url": "https://t.co/QnEdZGJvUw"
+              }
+            ]
+          }
+        },
+        "id": "1952257824664485888",
+        "location": "亚神瑞亚尼赛亚（Asenruia Nisaa）",
+        "name": "Libailu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049090787191992320/M7ZR9HqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 368,
+          "like_count": 8925,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1116
+        },
+        "url": "https://t.co/QnEdZGJvUw",
+        "username": "LibailuOne",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T00:21:02.000Z",
+        "description": "雌二醇重度依赖(无证)💊🍬🍭🍥🏳‍⚧(同类求互关喵)\n喜欢二次元，音游，速核，cosplay，甜食控，魔爪控，od，i/e人随机，多重人格，利他主义，泛性恋，花刀艺术，m，168/48\n妹妹：@Libailu🍥🏳️‍⚧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 96,
+                "username": "Libailu"
+              }
+            ]
+          }
+        },
+        "id": "1953249928320565254",
+        "name": "食用性少女🍥🏳‍⚧",
+        "pinned_tweet_id": "2031299825350939003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031568383674859520/obzcVkmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 39,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 63
+        },
+        "username": "JiaYu56300",
+        "verified": false
+      }
+    ]
+  }
+}

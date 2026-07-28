@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2053918051616411712",
+    "created_at": "2026-05-11T19:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T20:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053918051616411712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2053915543602917619",
+          "start": 19,
+          "url": "https://t.co/r85Sdcc9sS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053918051616411712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053915543602917619",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学物理，如雾里，雾里习物理，雾里悟理 https://t.co/r85Sdcc9sS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1829,
+        "media_key": "3_2053388619520659456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8aEfRb0AAbFd5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2053918051616411712",
+        "created_at": "2026-05-11T19:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T20:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053918051616411712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2053915543602917619",
+              "start": 19,
+              "url": "https://t.co/r85Sdcc9sS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053918051616411712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053915543602917619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学物理，如雾里，雾里习物理，雾里悟理 https://t.co/r85Sdcc9sS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053388619520659456"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2053915543602917619",
+        "created_at": "2026-05-11T19:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T20:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053915543602917619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jA9OoRyCj",
+              "end": 42,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2053915543602917619/photo/1",
+              "media_key": "3_2053388619520659456",
+              "start": 19,
+              "url": "https://t.co/4jA9OoRyCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053915543602917619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学物理，如雾里，雾里习物理，雾里悟理 https://t.co/4jA9OoRyCj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 122,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 129
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8369,
+          "following_count": 2191,
+          "like_count": 29473,
+          "listed_count": 26,
+          "media_count": 1304,
+          "tweet_count": 4969
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

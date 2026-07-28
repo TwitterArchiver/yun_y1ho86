@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2057478050628116772",
+    "created_at": "2026-05-21T16:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057501484028428625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938997459294060544",
+          "start": 0,
+          "username": "OK1145141919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057501484028428625",
+    "in_reply_to_user_id": "1938997459294060544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057478050628116772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OK1145141919810 加油！祝早日康复🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057478042751221760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2hYP9aQAAr9i-.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2057478050628116772",
+        "created_at": "2026-05-21T16:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057501484028428625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938997459294060544",
+              "start": 0,
+              "username": "OK1145141919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057501484028428625",
+        "in_reply_to_user_id": "1938997459294060544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057478050628116772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OK1145141919810 加油！祝早日康复🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057478042751221760"
+          ]
+        },
+        "author_id": "1938997459294060544",
+        "conversation_id": "2057478050628116772",
+        "created_at": "2026-05-21T15:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057478050628116772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsmZZL2JLY",
+              "end": 54,
+              "expanded_url": "https://x.com/OK1145141919810/status/2057478050628116772/photo/1",
+              "media_key": "3_2057478042751221760",
+              "start": 31,
+              "url": "https://t.co/qsmZZL2JLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057478050628116772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2871,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要休息几天\n请大家不要取关我\n状态好了我会继续更新的谢谢 https://t.co/qsmZZL2JLY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 173,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 222
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T16:26:51.000Z",
+        "description": "裏垢です、どうか御注意ください。🔞山盛りとなりますので未成年の方ご遠慮ください、発見次第ブロックするので御理解とご協力お願いします。\nサァ、ホントウノワタシヲサガシテミロ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ok1145141919810",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ok1145141919810",
+                "start": 0,
+                "url": "https://t.co/u3835TPD5S"
+              }
+            ]
+          }
+        },
+        "id": "1938997459294060544",
+        "name": "OKちゃんだよな",
+        "pinned_tweet_id": "1987093525612404938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039378632439996419/rPbgDS4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5873,
+          "following_count": 660,
+          "like_count": 18585,
+          "listed_count": 21,
+          "media_count": 785,
+          "tweet_count": 6541
+        },
+        "url": "https://t.co/u3835TPD5S",
+        "username": "OK1145141919810",
+        "verified": true
+      }
+    ]
+  }
+}

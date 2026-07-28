@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2054241224002060542",
+    "created_at": "2026-05-12T16:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054243817717727488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748064252521545731",
+          "start": 0,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054243817717727488",
+    "in_reply_to_user_id": "1748064252521545731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054241224002060542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihuanhuanhuan 淡出圈子吧，事了拂衣去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054241114295767040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIhaNyaEAA_wiy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054241114295783429",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIhaNyaUAU8fX8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2054241114308366337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIhaN1aUAEOKMO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054241114295861248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIhaNybgAAz1hF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2054241224002060542",
+        "created_at": "2026-05-12T16:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054243817717727488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054243817717727488",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054241224002060542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan 淡出圈子吧，事了拂衣去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054241114295767040",
+            "3_2054241114295783429",
+            "3_2054241114308366337",
+            "3_2054241114295861248"
+          ]
+        },
+        "author_id": "1748064252521545731",
+        "conversation_id": "2054241224002060542",
+        "created_at": "2026-05-12T16:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054241224002060542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezUyx5rKSI",
+              "end": 124,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2054241224002060542/photo/1",
+              "media_key": "3_2054241114295767040",
+              "start": 101,
+              "url": "https://t.co/ezUyx5rKSI"
+            },
+            {
+              "display_url": "pic.x.com/ezUyx5rKSI",
+              "end": 124,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2054241224002060542/photo/1",
+              "media_key": "3_2054241114295783429",
+              "start": 101,
+              "url": "https://t.co/ezUyx5rKSI"
+            },
+            {
+              "display_url": "pic.x.com/ezUyx5rKSI",
+              "end": 124,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2054241224002060542/photo/1",
+              "media_key": "3_2054241114308366337",
+              "start": 101,
+              "url": "https://t.co/ezUyx5rKSI"
+            },
+            {
+              "display_url": "pic.x.com/ezUyx5rKSI",
+              "end": 124,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2054241224002060542/photo/1",
+              "media_key": "3_2054241114295861248",
+              "start": 101,
+              "url": "https://t.co/ezUyx5rKSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054241224002060542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第99天\n三个月而已\n发生了太多事情了\n咴咴死了 水水死了\n自杀干预 自己自杀失败\n以及了解od 差点被强奸\n这刚准备到一百天而已\n我是否应该\n淡出整个圈子\n过起来小日子就好了\n\n获得承认就会接近死亡 https://t.co/ezUyx5rKSI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 127,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 137
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "你好 我是紫色章鱼（叫我章鱼）\n我会点精神分析 哲学 一点点商业\n我希望@Aureliax17QwQ 活下去 大家帮帮我\n我可以接帮的上忙的自杀干预\n为了水水@dnshu135734\n我要写完《薪废土维修手册》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "dnshu135734"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2052524228092801382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 453,
+          "like_count": 3132,
+          "listed_count": 3,
+          "media_count": 426,
+          "tweet_count": 3258
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

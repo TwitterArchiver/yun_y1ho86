@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2057611687369568745",
+    "created_at": "2026-05-22T00:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T01:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057623512580567384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040496770602487809",
+          "start": 0,
+          "username": "ragan70814"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057623512580567384",
+    "in_reply_to_user_id": "2040496770602487809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057611687369568745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ragan70814 早哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2057611687369568745",
+        "created_at": "2026-05-22T00:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057623512580567384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040496770602487809",
+              "start": 0,
+              "username": "ragan70814"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057623512580567384",
+        "in_reply_to_user_id": "2040496770602487809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057611687369568745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ragan70814 早哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496770602487809",
+        "conversation_id": "2057611687369568745",
+        "created_at": "2026-05-21T23:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057611687369568745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057611687369568745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一群人天天睡大觉！！！，太阳晒屁股了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 177,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 235
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T18:28:53.000Z",
+        "description": "10年1月3，一个活死人，取向不正常，精神神似变态，男的",
+        "id": "2040496770602487809",
+        "name": "念真",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049368082725167104/Sqntw5mQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 78,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 358
+        },
+        "username": "ragan70814",
+        "verified": false
+      }
+    ]
+  }
+}

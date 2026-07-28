@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2052890516757639224",
+    "created_at": "2026-05-09T00:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T01:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052911274556837938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1598557374046179328",
+          "start": 0,
+          "username": "huihui_mikumi"
+        },
+        {
+          "end": 30,
+          "id": "2041449281677045760",
+          "start": 15,
+          "username": "Sorcerer198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052911274556837938",
+    "in_reply_to_user_id": "1598557374046179328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052890516757639224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huihui_mikumi @Sorcerer198964 晚安...来世幸福！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052890514379386880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1VC9BaMAArqGZ.jpg",
+        "width": 463
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2052890514354245633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1VC87akAECNPV.jpg",
+        "width": 463
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2052890514404614144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1VC9HbIAA1U-1.jpg",
+        "width": 463
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2052890514337464320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1VC83agAAH0mB.jpg",
+        "width": 463
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2052890516757639224",
+        "created_at": "2026-05-09T00:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052911274556837938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            },
+            {
+              "end": 30,
+              "id": "2041449281677045760",
+              "start": 15,
+              "username": "Sorcerer198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052911274556837938",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052890516757639224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi @Sorcerer198964 晚安...来世幸福！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052890514379386880",
+            "3_2052890514354245633",
+            "3_2052890514404614144",
+            "3_2052890514337464320"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052890516757639224",
+        "created_at": "2026-05-08T23:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052890516757639224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer198964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UGrhmEOgRB",
+              "end": 178,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2052890516757639224/photo/1",
+              "media_key": "3_2052890514379386880",
+              "start": 155,
+              "url": "https://t.co/UGrhmEOgRB"
+            },
+            {
+              "display_url": "pic.x.com/UGrhmEOgRB",
+              "end": 178,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2052890516757639224/photo/1",
+              "media_key": "3_2052890514354245633",
+              "start": 155,
+              "url": "https://t.co/UGrhmEOgRB"
+            },
+            {
+              "display_url": "pic.x.com/UGrhmEOgRB",
+              "end": 178,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2052890516757639224/photo/1",
+              "media_key": "3_2052890514404614144",
+              "start": 155,
+              "url": "https://t.co/UGrhmEOgRB"
+            },
+            {
+              "display_url": "pic.x.com/UGrhmEOgRB",
+              "end": 178,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2052890516757639224/photo/1",
+              "media_key": "3_2052890514337464320",
+              "start": 155,
+              "url": "https://t.co/UGrhmEOgRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052890516757639224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 359,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n@Sorcerer198964，圈名索瑟尔，因长期受到来自家庭，公权力，互联网和身边环境的不公平待遇，精神遭受严重打击，于2026年5月8日晚与我等饮酒醉后回家，服用1 ＇4-丁二醇和氯硝西泮，依其遗愿特发讣告\n其生前为唯理主义者，长期受到理念理性与现实理性之分歧折磨，\n愿其得以摆脱肉体之痛苦得以安息 https://t.co/UGrhmEOgRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 85,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 72
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|欢迎互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 444,
+          "like_count": 449,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 850
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 493,
+          "like_count": 368,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 1224
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

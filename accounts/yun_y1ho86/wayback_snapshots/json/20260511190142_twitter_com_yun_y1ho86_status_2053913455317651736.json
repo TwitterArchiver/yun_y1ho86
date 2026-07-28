@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2053887857329410090",
+    "created_at": "2026-05-11T19:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T20:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053913455317651736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1744970574269661184",
+          "start": 0,
+          "username": "0x70E_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053913455317651736",
+    "in_reply_to_user_id": "1744970574269661184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053887857329410090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x70E_ 生日快乐呀！祝你运气爆棚哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053887845170040832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDgHPvaUAA5USY.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2053887857329410090",
+        "created_at": "2026-05-11T19:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T20:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053913455317651736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1744970574269661184",
+              "start": 0,
+              "username": "0x70E_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053913455317651736",
+        "in_reply_to_user_id": "1744970574269661184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053887857329410090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x70E_ 生日快乐呀！祝你运气爆棚哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053887845170040832"
+          ]
+        },
+        "author_id": "1744970574269661184",
+        "conversation_id": "2053887857329410090",
+        "created_at": "2026-05-11T17:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053887857329410090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TkQt4LHmgP",
+              "end": 27,
+              "expanded_url": "https://x.com/0x70E_/status/2053887857329410090/photo/1",
+              "media_key": "3_2053887845170040832",
+              "start": 4,
+              "url": "https://t.co/TkQt4LHmgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053887857329410090",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 166,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "19！ https://t.co/TkQt4LHmgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 121,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 127
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T06:33:10.000Z",
+        "description": "苦逼大学生｜守旧二次元 | 鹿乃厨 | 喜欢音游 | FPS低手 |日语歌爱好者，术力口厨，喜欢初音！\n| 爱研究一切电子产品\n愿望是世界和平，人与人之间少点争端",
+        "id": "1744970574269661184",
+        "name": "1wakura0",
+        "pinned_tweet_id": "1987056847317311607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011675129978462208/wvNDQnOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 1494,
+          "like_count": 6410,
+          "listed_count": 3,
+          "media_count": 163,
+          "tweet_count": 2531
+        },
+        "username": "0x70E_",
+        "verified": false
+      }
+    ]
+  }
+}

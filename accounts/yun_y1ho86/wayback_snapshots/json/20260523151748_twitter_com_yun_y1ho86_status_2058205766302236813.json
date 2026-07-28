@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2058205766302236813",
+    "created_at": "2026-05-23T15:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058205766302236813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946593949180993536",
+          "start": 0,
+          "username": "RogerDisboard"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yun_y1ho86/sta…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/yun_y1ho86/status/2058204855035162753",
+          "start": 25,
+          "url": "https://t.co/ZJBTO7arsB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058205766302236813",
+    "in_reply_to_user_id": "1946593949180993536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058204855035162753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RogerDisboard 就像这条评论一样😥 https://t.co/ZJBTO7arsB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2058205766302236813",
+        "created_at": "2026-05-23T15:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058205766302236813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yun_y1ho86/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/yun_y1ho86/status/2058204855035162753",
+              "start": 25,
+              "url": "https://t.co/ZJBTO7arsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058205766302236813",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058204855035162753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 就像这条评论一样😥 https://t.co/ZJBTO7arsB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2058201892183040121",
+        "created_at": "2026-05-23T15:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058204855035162753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058204855035162753",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058204293715652881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 评论被shadowban了😥...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 189,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 243
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2057824559936754116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 896,
+          "like_count": 5863,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1339
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

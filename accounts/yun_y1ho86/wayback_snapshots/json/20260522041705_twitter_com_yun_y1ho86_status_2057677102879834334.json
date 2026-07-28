@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2057654896799916252",
+    "created_at": "2026-05-22T04:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057677102879834334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        },
+        {
+          "end": 25,
+          "id": "2031097520840167424",
+          "start": 10,
+          "username": "Ciallo_114_514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057677102879834334",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057654896799916252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu @Ciallo_114_514 感谢你\n抱抱w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057654885974474752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5CN4TbAAA9Wg3.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057654885982900224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5CN4VbkAAmNwO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2057654896799916252",
+        "created_at": "2026-05-22T04:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057677102879834334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            },
+            {
+              "end": 25,
+              "id": "2031097520840167424",
+              "start": 10,
+              "username": "Ciallo_114_514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057677102879834334",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057654896799916252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu @Ciallo_114_514 感谢你\n抱抱w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057654885974474752",
+            "3_2057654885982900224"
+          ]
+        },
+        "author_id": "2031270533359349761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057654896799916252",
+        "created_at": "2026-05-22T02:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057654896799916252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "2031097520840167424",
+              "start": 9,
+              "username": "Ciallo_114_514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bviCRf5FSN",
+              "end": 48,
+              "expanded_url": "https://x.com/senzhiwu/status/2057654896799916252/photo/1",
+              "media_key": "3_2057654885974474752",
+              "start": 25,
+              "url": "https://t.co/bviCRf5FSN"
+            },
+            {
+              "display_url": "pic.x.com/bviCRf5FSN",
+              "end": 48,
+              "expanded_url": "https://x.com/senzhiwu/status/2057654896799916252/photo/1",
+              "media_key": "3_2057654885982900224",
+              "start": 25,
+              "url": "https://t.co/bviCRf5FSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057654896799916252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 642,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人没事，但是我累了@Ciallo_114_514 https://t.co/bviCRf5FSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜轻焦轻抑｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 178,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 241
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物呜呜｜日常孤独缺爱ing｜喜欢一切可爱的东西喵｜生产日期2008｜mtx🏳️‍⚧️小证含糖｜ENTP-T｜hrt 3.29｜🇲🇾留学生/常驻南京 欢迎来找我玩｜可以把我当树洞喵，虽然可能不太会安慰人呜",
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057469282360107008/wkkOtOfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 327,
+          "like_count": 2113,
+          "listed_count": 4,
+          "media_count": 91,
+          "tweet_count": 2032
+        },
+        "username": "senzhiwu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649｜互fo喵(没回私信提醒我喵)\n生日0402｜hrt2026.1.12-3.19 4.24-？｜已炸柜｜超级天残党+家长不管党｜中焦重抑｜全部立场中立｜碎碎念｜我又不想死了｜此号现作为小号 新大号@qi_bu64350",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "qi_bu64350"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵★🍥🏳️‍⚧️💊✝️（互fo寻回ing）",
+        "pinned_tweet_id": "2048605880296587663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 813,
+          "like_count": 2509,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 4404
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

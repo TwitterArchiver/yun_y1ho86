@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2064141044225278103",
+    "created_at": "2026-06-09T00:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064141044225278103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RogerDisboard/…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/RogerDisboard/status/2063997183872172323",
+          "start": 112,
+          "url": "https://t.co/TXJrUAUSCq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064141044225278103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063997183872172323",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我各个学科水平：\n语文：之乎者也\n数学：高数线代概率，高中数学是什么\n英语：六级没过（）\n物理：天书\n化学：C2H5OH是什么\n地理：背不全660个城市名\n政治：坚定的马克思唯物主义战士！\n生物：高中水平-\n历史：也许够用 https://t.co/TXJrUAUSCq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064141044225278103",
+        "created_at": "2026-06-09T00:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064141044225278103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RogerDisboard/…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/RogerDisboard/status/2063997183872172323",
+              "start": 112,
+              "url": "https://t.co/TXJrUAUSCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064141044225278103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063997183872172323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：之乎者也\n数学：高数线代概率，高中数学是什么\n英语：六级没过（）\n物理：天书\n化学：C2H5OH是什么\n地理：背不全660个城市名\n政治：坚定的马克思唯物主义战士！\n生物：高中水平-\n历史：也许够用 https://t.co/TXJrUAUSCq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2063997183872172323",
+        "created_at": "2026-06-08T14:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063997183872172323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luo_240110/sta…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/luo_240110/status/2063955640536719791",
+              "start": 95,
+              "url": "https://t.co/ufxOAlXjcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063997183872172323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2601,
+          "like_count": 28,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063955640536719791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：你好，再见\n数学：大概到积分变换左右\n英语：学过一点点托福\n物理：学过物竞（放弃了）\n化学：高中水平\n地理：地理竞赛省一\n政治：【CENSORED】\n生物：高中水平 https://t.co/ufxOAlXjcL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 156,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 242
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我会一直憎恶下去/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2063451049537773665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 1091,
+          "like_count": 8535,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 2167
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}
