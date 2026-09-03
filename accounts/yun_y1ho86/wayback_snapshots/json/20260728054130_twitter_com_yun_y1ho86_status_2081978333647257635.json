@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2081941750151528738",
+    "created_at": "2026-07-28T05:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081978333647257635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081978333647257635",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081941750151528738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 摸摸🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3751,
+        "media_key": "3_2081941741280915456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSK-6wbcAAb_q0.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2081941750151528738",
+        "created_at": "2026-07-28T05:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081978333647257635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081978333647257635",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081941750151528738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 摸摸🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081941741280915456"
+          ]
+        },
+        "author_id": "1314388633869152259",
+        "conversation_id": "2081941750151528738",
+        "created_at": "2026-07-28T03:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081941750151528738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7kAcfOYot",
+              "end": 69,
+              "expanded_url": "https://x.com/Swathy17531761/status/2081941750151528738/photo/1",
+              "media_key": "3_2081941741280915456",
+              "start": 46,
+              "url": "https://t.co/f7kAcfOYot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081941750151528738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绝望的写下的这个痛苦的世界与我自己。截止2026.10.19生日那天前。我决定去往异世界！ https://t.co/f7kAcfOYot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 167,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "yun_y1ho86",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是小汐~ !可以叫咱小汐或者汐宝喵~?身//随缘/重度抑郁/有点比较命苦/MTF/🚪66/望理解谢谢……",
+        "id": "1314388633869152259",
+        "name": "小汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2077453484627280044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040005569478823936/cQhh4SPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3660,
+          "following_count": 86,
+          "like_count": 19,
+          "listed_count": 10,
+          "media_count": 106,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}
