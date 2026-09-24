@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088949316228657152"
+      ],
+      "media_source_tweet_id": [
+        "2088949323920990228"
+      ]
+    },
+    "author_id": "1804112443666497536",
+    "conversation_id": "2097164929187098876",
+    "created_at": "2026-09-08T03:27:37.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T04:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097164929187098876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887391023976038400",
+          "start": 3,
+          "username": "xiey57828"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4iKcZN72BG",
+          "end": 47,
+          "expanded_url": "https://x.com/xiey57828/status/2088949323920990228/photo/1",
+          "media_key": "3_2088949316228657152",
+          "start": 24,
+          "url": "https://t.co/4iKcZN72BG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097164929187098876",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088949316228657152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088949323920990228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiey57828: 药物滥用就是细读 https://t.co/4iKcZN72BG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2088949316228657152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1wVduasAA49EZ.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088949316228657152"
+          ],
+          "media_source_tweet_id": [
+            "2088949323920990228"
+          ]
+        },
+        "author_id": "1804112443666497536",
+        "conversation_id": "2097164929187098876",
+        "created_at": "2026-09-08T03:27:37.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097164929187098876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887391023976038400",
+              "start": 3,
+              "username": "xiey57828"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4iKcZN72BG",
+              "end": 47,
+              "expanded_url": "https://x.com/xiey57828/status/2088949323920990228/photo/1",
+              "media_key": "3_2088949316228657152",
+              "start": 24,
+              "url": "https://t.co/4iKcZN72BG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097164929187098876",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088949316228657152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088949323920990228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiey57828: 药物滥用就是细读 https://t.co/4iKcZN72BG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088949316228657152"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2088949323920990228",
+        "created_at": "2026-08-16T11:21:44.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:04:30.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088944988071817293",
+          "2088949323920990228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4iKcZN72BG",
+              "end": 32,
+              "expanded_url": "https://x.com/xiey57828/status/2088949323920990228/photo/1",
+              "media_key": "3_2088949316228657152",
+              "start": 9,
+              "url": "https://t.co/4iKcZN72BG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088949323920990228",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088949316228657152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 24654,
+          "like_count": 92,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "药物滥用就是细读 https://t.co/4iKcZN72BG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097164929187098876",
+        "name": "蕓蘙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804112443666497536/1777460983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 153,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "yun_y1ho86",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "跨女\n\n游离在自恨与自我边缘的 #普通人\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "普通人"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2097127951963996294",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 534,
+          "like_count": 17074,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 6186
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

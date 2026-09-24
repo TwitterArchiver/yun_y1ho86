@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099466812668985344",
+        "3_2099466819807612928"
+      ]
+    },
+    "author_id": "1804112443666497536",
+    "conversation_id": "2099466825172201709",
+    "created_at": "2026-09-14T11:54:31.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T12:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099466825172201709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eY5UoJkafb",
+          "end": 29,
+          "expanded_url": "https://x.com/yun_y1ho86/status/2099466825172201709/photo/1",
+          "media_key": "3_2099466812668985344",
+          "start": 6,
+          "url": "https://t.co/eY5UoJkafb"
+        },
+        {
+          "display_url": "pic.x.com/eY5UoJkafb",
+          "end": 29,
+          "expanded_url": "https://x.com/yun_y1ho86/status/2099466825172201709/photo/1",
+          "media_key": "3_2099466819807612928",
+          "start": 6,
+          "url": "https://t.co/eY5UoJkafb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099466825172201709",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099466812668985344"
+      },
+      {
+        "media_key": "3_2099466819807612928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已严肃学习 https://t.co/eY5UoJkafb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2099466812668985344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLN8VLbQAA46-U.jpg",
+        "width": 2400
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2099466819807612928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLN8vxaEAAuT37.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099466812668985344",
+            "3_2099466819807612928"
+          ]
+        },
+        "author_id": "1804112443666497536",
+        "conversation_id": "2099466825172201709",
+        "created_at": "2026-09-14T11:54:31.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099466825172201709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eY5UoJkafb",
+              "end": 29,
+              "expanded_url": "https://x.com/yun_y1ho86/status/2099466825172201709/photo/1",
+              "media_key": "3_2099466812668985344",
+              "start": 6,
+              "url": "https://t.co/eY5UoJkafb"
+            },
+            {
+              "display_url": "pic.x.com/eY5UoJkafb",
+              "end": 29,
+              "expanded_url": "https://x.com/yun_y1ho86/status/2099466825172201709/photo/1",
+              "media_key": "3_2099466819807612928",
+              "start": 6,
+              "url": "https://t.co/eY5UoJkafb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099466825172201709",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099466812668985344"
+          },
+          {
+            "media_key": "3_2099466819807612928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃学习 https://t.co/eY5UoJkafb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099466825172201709",
+        "name": "蕓蘙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804112443666497536/1777460983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 157,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "yun_y1ho86",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

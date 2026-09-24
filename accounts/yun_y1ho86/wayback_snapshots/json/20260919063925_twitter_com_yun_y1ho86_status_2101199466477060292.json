@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2100838478187725263",
+    "created_at": "2026-09-19T06:39:25.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T07:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101199466477060292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2096992990338469889",
+          "start": 0,
+          "username": "Ambient_Isotopy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101199466477060292",
+    "in_reply_to_user_id": "2096992990338469889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100838478187725263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ambient_Isotopy 跟我一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2100838470793236480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSetdV4bEAA2Bof.jpg",
+        "width": 828
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2100838470801592320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSetdV6akAA2DXw.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1069,
+        "media_key": "3_2100838470810005504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSetdV8a8AAdJXz.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1758,
+        "media_key": "3_2100838471040737280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSetdWzboAA9RZ5.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2100838478187725263",
+        "created_at": "2026-09-19T06:39:25.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101199466477060292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2096992990338469889",
+              "start": 0,
+              "username": "Ambient_Isotopy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101199466477060292",
+        "in_reply_to_user_id": "2096992990338469889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100838478187725263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ambient_Isotopy 跟我一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100838470793236480",
+            "3_2100838470801592320",
+            "3_2100838470810005504",
+            "3_2100838471040737280"
+          ]
+        },
+        "author_id": "2096992990338469889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100838478187725263",
+        "created_at": "2026-09-18T06:44:59.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100838478187725263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvee8VMQSf",
+              "end": 163,
+              "expanded_url": "https://x.com/Ambient_Isotopy/status/2100838478187725263/photo/1",
+              "media_key": "3_2100838470793236480",
+              "start": 140,
+              "url": "https://t.co/qvee8VMQSf"
+            },
+            {
+              "display_url": "pic.x.com/qvee8VMQSf",
+              "end": 163,
+              "expanded_url": "https://x.com/Ambient_Isotopy/status/2100838478187725263/photo/1",
+              "media_key": "3_2100838470801592320",
+              "start": 140,
+              "url": "https://t.co/qvee8VMQSf"
+            },
+            {
+              "display_url": "pic.x.com/qvee8VMQSf",
+              "end": 163,
+              "expanded_url": "https://x.com/Ambient_Isotopy/status/2100838478187725263/photo/1",
+              "media_key": "3_2100838470810005504",
+              "start": 140,
+              "url": "https://t.co/qvee8VMQSf"
+            },
+            {
+              "display_url": "pic.x.com/qvee8VMQSf",
+              "end": 163,
+              "expanded_url": "https://x.com/Ambient_Isotopy/status/2100838478187725263/photo/1",
+              "media_key": "3_2100838471040737280",
+              "start": 140,
+              "url": "https://t.co/qvee8VMQSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100838478187725263",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100838470793236480"
+          },
+          {
+            "media_key": "3_2100838470801592320"
+          },
+          {
+            "media_key": "3_2100838470810005504"
+          },
+          {
+            "media_key": "3_2100838471040737280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2587,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还活着，\n但是彻底没有经济来源和自由了。\n\n我妈妈因为我双相精神病发作辞职了，然后全天在家盯着我。\n\n我的生活费也全都没有了，钱全都归父母管，一分钱也不给我，每天会给我做饭吃保证不饿死\n\n学校也给我休学了，全都毁了……\n周一还要去精神病医院看病\n\n求助，给我点钱吧，我没有钱花了 https://t.co/qvee8VMQSf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101199466477060292",
+        "name": "蕓蘙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804112443666497536/1777460983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 163,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "yun_y1ho86",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T16:05:21.000Z",
+        "description": "さようなら。もう二度と関わらない。\n\n休学中，想要钱。联系QQ3994542199",
+        "id": "2096992990338469889",
+        "is_identity_verified": false,
+        "location": "深圳",
+        "most_recent_tweet_id": "2101172665239429529",
+        "name": "イソトピー",
+        "pinned_tweet_id": "2100838478187725263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096992990338469889/1789474853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099817069206482944/O6nPRHdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 230,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "Ambient_Isotopy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
