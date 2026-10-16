@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804112443666497536",
+    "conversation_id": "2108965495412232665",
+    "created_at": "2026-10-11T11:02:30.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T12:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109238205736534483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1430117480865746952",
+          "start": 0,
+          "username": "HuytrewqKPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109238205736534483",
+    "in_reply_to_user_id": "1430117480865746952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108965495412232665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuytrewqKPS 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2108965482200289281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUSM7qob0AErDdD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2108965495412232665",
+        "created_at": "2026-10-11T11:02:30.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T12:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109238205736534483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1430117480865746952",
+              "start": 0,
+              "username": "HuytrewqKPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109238205736534483",
+        "in_reply_to_user_id": "1430117480865746952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108965495412232665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuytrewqKPS 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108965482200289281"
+          ]
+        },
+        "author_id": "1430117480865746952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2108965495412232665",
+        "created_at": "2026-10-10T16:58:51.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T17:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108965495412232665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ASbnMIK33a",
+              "end": 131,
+              "expanded_url": "https://x.com/HuytrewqKPS/status/2108965495412232665/photo/1",
+              "media_key": "3_2108965482200289281",
+              "start": 108,
+              "url": "https://t.co/ASbnMIK33a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108965495412232665",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108965482200289281"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1584,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "超纯pr晶体 99.67% 抽如奖来了\n关注点赞评论转发即可参与 10.15开奖\n一等奖 30g pr原粉 一份\n二等奖 15g pr原粉 两份\n三等奖 8g pr原粉 三份\n*获奖者需要支付邮费后可获得相应奖项* https://t.co/ASbnMIK33a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109238205736534483",
+        "name": "蕓蘙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804112443666497536/1777460983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 161,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "yun_y1ho86",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-24T10:39:20.000Z",
+        "description": "普通的od蛆od着普通的普瑞巴林\n请直接使用telegram联系，x私信回复可能较慢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KW_ANGEL_sb",
+                "end": 23,
+                "expanded_url": "https://t.me/KW_ANGEL_sb",
+                "start": 0,
+                "url": "https://t.co/hfp8FoG3c1"
+              }
+            ]
+          }
+        },
+        "id": "1430117480865746952",
+        "is_identity_verified": false,
+        "location": "普瑞巴林星球",
+        "most_recent_tweet_id": "2108999584332894282",
+        "name": "huytrewq_kps",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430117480865746952/1784637022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430118149144256514/mhYnEPWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 189,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/hfp8FoG3c1",
+        "username": "HuytrewqKPS",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
